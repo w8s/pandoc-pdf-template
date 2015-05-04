@@ -6,7 +6,7 @@ import glob
 template_path = "w8sPDF.template"
 subject = "Subject of PDF"
 keywords = "Keywords, You, Want, To, Include"
-subtitle = "The Name of the Document"
+subtitle = "The Name of the Document" # Acts as name of document as well.
 color = "102,103,150" # RGB color for links inside the document.
 today = "05/06/2015"
 draft = "1.0" # Text that will be appended to "Version" in the document. i.e
