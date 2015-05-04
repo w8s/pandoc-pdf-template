@@ -1,3 +1,7 @@
+% Sample Document
+% Todd Waits
+% May 5, 2015
+
 # pandoc-pdf-template
 
 This repo contains a Latex template file for Pandoc to generated a decent looking PDF right off the bat. If you have any recommendations, or tweaks to make it better, please let me know. I would love to hear from you.
