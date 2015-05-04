@@ -38,12 +38,12 @@ $endif$
 \predate{\begin{flushleft}%
   \usefont{T1}{phv}{}{n}\fontsize{14}{16.8}\selectfont
   $if(draft)$
-  \textsc{ Version $draft$ | }}
+  \textsc{Version $draft$ | }}
   $endif$
 \postdate{\par\end{flushleft}\vfill
   \setlength{\TPHorizModule}{0.25in}
   \setlength{\TPVertModule}{\TPHorizModule}
-  \begin{textblock}{1}(-2.25,30)
+  \begin{textblock}{1}(5.95,30)
     \includegraphics{$brandingpath$}
   \end{textblock}
   }
