@@ -29,3 +29,5 @@ Tex Packages:
 ## Helper Script
 
 I included a Python script that will run the above command using keywords you define in the script. I find it's a bit easier to use that.
+
+To run it `cd` into `sample` and run `python generation_script.py`.
